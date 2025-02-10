@@ -35,7 +35,7 @@ elif gender == "F":
     if height >= 5:
         if inches >=9:
             print("You are a tall girl")
-        elif inches > 9 or inches >= 4:
+        elif inches < 9 or inches >= 4:
             print("you are average heaight")
         elif inches < 4:
             print("You are quite short")
