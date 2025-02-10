@@ -3,12 +3,12 @@
 
 #define gender
 gender = input("What is your gender? M = Male F = Female and O = Other ").capitalize()
-if gender != "M" or gender!= "F" or gender!= "O":
+if gender != "M" and gender != "F" and gender != "O":
     print("Wait a minuit... That is not an option!")
     exit()
 #define orientation
 orient = input("What is you orientation S = Streight G = Gay B = By ").capitalize()
-if gender != "S" or gender!= "G" or gender!= "B":
+if orient != "S" and orient != "G" and orient != "B":
     print("Wait a minuit... That is not an option!")
     exit()
 #define height in fee first
