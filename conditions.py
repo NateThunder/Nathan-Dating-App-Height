@@ -32,7 +32,7 @@ elif gender == "F":
 #Orientation does not really matter in this category    
     if height >= 6:
         print("You are a very tall girl")
-    if height >= 5:
+    if height == 5:
         if inches >=9:
             print("You are a tall girl")
         elif inches < 9 or inches >= 4:
