@@ -3,6 +3,7 @@
 
 #define gender
 gender = input("What is your gender? M = Male F = Female and O = Other ").capitalize()
+#and statement used rather than or statement to break the code is invalid input
 if gender != "M" and gender != "F" and gender != "O":
     print("Wait a minuit... That is not an option!")
     exit()
@@ -22,7 +23,7 @@ if gender == "M" and orient =="S":
     if height >= 6 and inches >= 0:
         print("You are tall! Well done!")
     else:
-        print("You are short")
+        print("Sorry you are under 6 feet so you are short")
 #For gay men:
 elif gender == "M":
     if orient == "G":
