@@ -23,7 +23,7 @@ if gender == "M" and orient =="S":
     if height >= 6 and inches >= 0:
         print("You are tall! Well done!")
     else:
-        print("You are short")
+        print("Sorry you are under 6 feet so you are short")
 #For gay men:
 elif gender == "M":
     if orient == "G":
