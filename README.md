@@ -1,4 +1,4 @@
-📏 Dating App Height Perception
+📏 Dating App Height Perception =============================== 
 🎯 About
 This is a fun and silly Python program that determines how your height is perceived on dating apps based on your gender, orientation, and height.
 
