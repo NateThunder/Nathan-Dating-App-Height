@@ -3,6 +3,8 @@
 ## 🎯 About
 This is a fun and silly Python program that determines how your height is perceived on dating apps based on your gender, orientation, and height.
 
+**⚠️ Warning:** This is purely for entertainment purposes. Expect sarcasm, exaggeration, and brutal honesty.
+
 🚀 **Spoiler Alert:** If you're a straight man under 6 feet, brace yourself.
 
 ## 🛠️ How It Works
